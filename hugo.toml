@@ -3,7 +3,7 @@ baseURL = "https://yourdomain.com"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "NAME_OF_YOUR_BLOG"
+title = "MUNAIZA_BLOG"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -198,7 +198,7 @@ theme = "LoveIt"
       # URL of avatar shown in home page (LINK_TO_YOUR_PHOTO_BELOW)
       avatarURL = "https://avatars.githubusercontent.com/u/7815661?v=4"
       #  title shown in home page (HTML format is supported)
-      title = "NAME_OF_YOUR_BLOG"
+      title = "MUNAIZA_BLOG"
       # subtitle shown in home page
       subtitle = "My AWS DevOps Engineering Journey"
       # whether to use typeit animation for subtitle
@@ -220,7 +220,7 @@ theme = "LoveIt"
   [params.social]
     Bitbucket = ""
     GitHub = ""
-    Linkedin = "YOUR_LINKEDIN_LINK"
+    Linkedin = "www.linkedin.com/in/muneeb-iqbal-ab2022190"
     Twitter = ""
     Gitlab = ""
     Email = ""
@@ -511,7 +511,7 @@ theme = "LoveIt"
 
 # Author config
 [author]
-  name = "YOUR_NAME"
+  name = "MUNEEB IQBAL"
   email = ""
   link = ""
 
