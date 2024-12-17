@@ -1,4 +1,4 @@
-# Blog Template for AWS DevOps Engineer Bootcamp Participants
+# MY AWS DEVOPS ENGINEER TECH-BLOG 
 
 Welcome to the Blog Template designed for participants of the **FREE** AWS DevOps Engineer Bootcamp offered by the [Cloud Talents community](https://www.skool.com/cloudtalents/about)! 
 
