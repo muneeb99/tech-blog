@@ -3,7 +3,7 @@ name: Static tech blog website
 on:
   push:
     branches:
-      - main/new-feature  # Set a branch to deploy
+      - main/new_feature  # Set a branch to deploy
   pull_request:
 
 jobs:
